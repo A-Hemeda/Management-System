@@ -13,4 +13,3 @@ Order Processing: Comprehensive order management system that handles order creat
 Payment Integration: Supports integration with popular payment gateways (e.g., Stripe, PayPal) for secure transactions.
 API Documentation: Detailed API documentation generated with Swagger/OpenAPI, making it easy for developers to understand and interact with the API endpoints.
 Unit and Integration Testing: Includes a suite of tests to ensure the reliability and correctness of the application, leveraging xUnit and Moq for testing.
-
